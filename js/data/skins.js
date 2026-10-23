@@ -29,5 +29,5 @@ export const SKIN_MAP = {
   'creetchrampage': { texture: 'f0e01e6621049a62bf0b99dfd4d33ef1c8f52850bf6d6bbf6ed207ecdc59ff93', model: 'classic' },
   'popsbuilds': { texture: '293f9b841238cabf051db83327653bdffd074639adfe9412da504ac8b5c1adfd', model: 'slim' },
   'skewda': { texture: 'a6a678e06190eaec87275cc32b147b766d89cb4179ec5a4d31006a466ef08f1d', model: 'classic' },
-  'hoopsivan': { texture: 'c29a6760eed29849a1c7384e5fe3dc8b19681e74ef4fcb51d89d7d67bd084c72', model: 'classic' },
+  'hoopsivan': { texture: '6538485a6dbad6b4b2cddeeffc07c837017d341c6b02b91bb93d60c8f5c1dca5', model: 'classic' },
 };
