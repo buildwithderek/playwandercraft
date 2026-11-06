@@ -28,6 +28,5 @@ export const SKIN_MAP = {
   'shashadivine': { texture: 'b85709101559794811ddcffeec0a729bdba1625b26b63a3517b5d8c58987faaf', model: 'slim' },
   'creetchrampage': { texture: 'f0e01e6621049a62bf0b99dfd4d33ef1c8f52850bf6d6bbf6ed207ecdc59ff93', model: 'classic' },
   'popsbuilds': { texture: '293f9b841238cabf051db83327653bdffd074639adfe9412da504ac8b5c1adfd', model: 'slim' },
-  'skewda': { texture: 'a6a678e06190eaec87275cc32b147b766d89cb4179ec5a4d31006a466ef08f1d', model: 'classic' },
-  'hoopsivan': { texture: '24c51a658a8846cc6989403d7ae31d3e501069e668a42a78bc0b78e3a738b74c', model: 'classic' },
+  'ontix': { texture: '676acc2d0a483ebb76154f1d057b728674883a583a3bcaabfc7dcf136d7a9c3c', model: 'slim' },
 };
