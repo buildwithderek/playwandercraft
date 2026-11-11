@@ -19,7 +19,7 @@ export const SKIN_MAP = {
   'K4MPY': { texture: '5fa3069539c59a4bb349f4fb6b3097f1acca53a84e4c27fda2ee7bbb43b688ab', model: 'classic' },
   'skertpert': { texture: '5833ea63e6d56c08ef1309eea9c754a6c5465b103645062475d354d672db025e', model: 'slim' },
   'sklump': { texture: 'b0e987ae7c20de38c0e08f3db07b27e7080ba19f6a8b6964cfb1a00844691b18', model: 'classic' },
-  'suuko': { texture: 'b92297160776e1533ce5a90af7cd53e288d6d61e5f272ac4adddbd7eab2ceb72', model: 'classic' },
+  'suuko': { texture: 'a92a8cfa20b7dc65e3022bd02ffd21ff8e1f90f2ebeb96f293d69903a1b5877d', model: 'classic' },
   'xkurosaki': { texture: '8a16be4cfb9ab30e055f3506ee2d90b144ca53d684383733d325ac00c0cec36b', model: 'slim' },
   'zuttz': { texture: '8472c596bdebd57b61ab6c67fa36f891711bce98c57b0ad83a4e08fe24bd081a', model: 'slim' },
   'its-k0da': { texture: '22ec34911da737cfaf598d0ad5d3230db593bd38de25e9bdcf525e64117f959e', model: 'classic' },
@@ -29,5 +29,6 @@ export const SKIN_MAP = {
   'creetchrampage': { texture: 'f0e01e6621049a62bf0b99dfd4d33ef1c8f52850bf6d6bbf6ed207ecdc59ff93', model: 'classic' },
   'popsbuilds': { texture: '293f9b841238cabf051db83327653bdffd074639adfe9412da504ac8b5c1adfd', model: 'slim' },
   'skewda': { texture: 'a6a678e06190eaec87275cc32b147b766d89cb4179ec5a4d31006a466ef08f1d', model: 'classic' },
+  'hoopsivan': { texture: '24c51a658a8846cc6989403d7ae31d3e501069e668a42a78bc0b78e3a738b74c', model: 'classic' },
   'ontix': { texture: '676acc2d0a483ebb76154f1d057b728674883a583a3bcaabfc7dcf136d7a9c3c', model: 'slim' },
 };
