@@ -13,7 +13,6 @@
  */
 
 export const SKIN_MAP = {
-  'senseitalon': { texture: '9adf6fa881787f98ea0b1123da790e7e25d628eccbdbb943d77839c222b7c526', model: 'classic' },
   'jvshua': { texture: '39484fbde8bd496d06f0d35a420c9814d464cacf9cdd741395cd90cfce12061b', model: 'slim' },
   'moosted': { texture: '89a47bc71054fd5c8de3ae0284ab9bbcfdbc8d6fca874a6497746b8be8d3ab8c', model: 'classic' },
   'K4MPY': { texture: '5fa3069539c59a4bb349f4fb6b3097f1acca53a84e4c27fda2ee7bbb43b688ab', model: 'classic' },
