@@ -30,5 +30,5 @@ export const SKIN_MAP = {
   'popsbuilds': { texture: '293f9b841238cabf051db83327653bdffd074639adfe9412da504ac8b5c1adfd', model: 'slim' },
   'skewda': { texture: 'a6a678e06190eaec87275cc32b147b766d89cb4179ec5a4d31006a466ef08f1d', model: 'classic' },
   'hoopsivan': { texture: '24c51a658a8846cc6989403d7ae31d3e501069e668a42a78bc0b78e3a738b74c', model: 'classic' },
-  'ontix': { texture: '4e6e019ecae5bf84c84732d055e6e14d47b210f96037e2650375f69284d10c54', model: 'slim' },
+  'ontix': { texture: 'fd7b89873be98203602d73e8f93d767eca7d7f3ef8a4825208566d6516fd6fda', model: 'slim' },
 };
